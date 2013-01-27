@@ -1,0 +1,2 @@
+Abacaxi;1;alguma coisa;1.99
+Uva;2;alguma coisa;5.99
